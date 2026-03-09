@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tyre pressure",
+    "service_type": "pressure",
+    "price": 10000
+  },
+  {
+    "name": "Puncture Repair",
+    "service_type": "puncture",
+    "price": 20000
+  },
+  {
+    "name": "Valve Replacement",
+    "service_type": "valve",
+    "price": 5000
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "model": "Model A",
+    "quantity": 200,
+    "sale": 50000,
+    "rent": 10000
+  },
+  {
+    "model": "Model B",
+    "quantity": 100,
+    "sale": 30000,
+    "rent": 7000
+  },
+  {
+    "model": "Model C",
+    "quantity": 50,
+    "sale": 70000,
+    "rent": 20000
+  },
+  {
+    "model": "Model D",
+    "quantity": 10,
+    "sale": 100000,
+    "rent": 50000
+  }
+]

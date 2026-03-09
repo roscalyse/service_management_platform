@@ -52,6 +52,18 @@ The application should load and display the dashboard. Navigate between pages us
 3. **Login/Logout**
    - Clicking "Logout" will simply take you to `login.html` (no real authentication).
 
+### 🔐 Test Credentials
+
+For convenience, the following sample user accounts are provided in `assets/json/users.json`:
+
+| Email               | Password    | Role          |
+|---------------------|-------------|---------------|
+| admin@example.com   | admin123    | Administrator |
+| user1@example.com   | userpass    | User          |
+| user2@example.com   | password123 | User          |
+
+Use these on the **login page** to test authentication and session storage.
+
 ## 📁 Project Structure
 
 ```
